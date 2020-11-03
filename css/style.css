@@ -1,0 +1,71 @@
+body{
+  background-image: url(../img/download.jpg);
+}
+
+.container{
+  padding: 0 10%
+}
+
+header{
+  border-bottom: 3px solid white;
+}
+
+img{
+  vertical-align: middle;
+}
+
+h1{
+  font-size: 25px;
+  display: inline-block;
+  color: white;
+}
+
+#none{
+  font-size: 1px;
+}
+
+.search{
+  padding-top: 10px;
+  border-bottom: 3px solid white;
+}
+
+h2{
+  color: white;
+}
+
+#yellow{
+  color: black;
+  background-color: yellow;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.mail{
+  margin-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid white;
+}
+
+.row{
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+#unread{
+  background-color: white;
+}
+
+footer{
+  padding-top: 8px;
+  text-align: center;
+}
+
+#start-footer{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
+}
+
+#end-footer{
+  font-family: 'Prompt', sans-serif;
+  font-family: 'Turret Road', cursive;
+}
